@@ -3,8 +3,8 @@
 ![simulator](./assets/simulator.png)
 
 # INTEGRANTES
+- **Kaique Zaffarani** | 556677
 - **Guilherme Santos Nunes** | 558989
-- **Kaique Rodrigues Zaffarani** | 556677
 
 ## LINKS
 - **[VÍDEO EXPLICATIVO]()**
