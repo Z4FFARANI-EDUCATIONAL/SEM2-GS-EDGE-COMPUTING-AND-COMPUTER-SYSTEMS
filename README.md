@@ -7,7 +7,7 @@
 - **Guilherme Santos Nunes** | 558989
 
 ## LINKS
-- **[VÍDEO EXPLICATIVO]()**
+- **[VÍDEO EXPLICATIVO](https://youtu.be/2ojkb-5r94c)**
 - **[SIMULADOR](https://wokwi.com/projects/414372914280213505)**
 
 <br>
