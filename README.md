@@ -3,8 +3,8 @@
 ![simulator](./assets/simulator.png)
 
 # INTEGRANTES
-- **[Guilherme Santos Nunes](https://github.com/sannunez)**
-- **[Kaique Zaffarani](https://github.com/Z4ffarani)**
+- **[Guilherme Santos Nunes](https://github.com/sannunez)** | 558989
+- **[Kaique Zaffarani](https://github.com/Z4ffarani)** | 556677
 
 ## LINKS
 - **[VÍDEO EXPLICATIVO](https://youtu.be/2ojkb-5r94c)**
