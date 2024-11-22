@@ -13,7 +13,7 @@
 <br>
 
 # PROJETO
-Este projeto apresenta um plano de certificação sustentável desenvolvido pela fictícia empresa Econy. A solução integra tecnologias de IoT (Internet das Coisas) e serviços em nuvem para monitorar e validar emissões de CO2 de clientes, incentivando práticas empresariais sustentáveis.
+Este projeto apresenta um plano de certificação sustentável desenvolvido pela fictícia empresa Econy. A solução integra tecnologias de IoT (internet das coisas) e serviços em nuvem para monitorar e validar emissões de CO2 de clientes, incentivando práticas empresariais sustentáveis.
 
 O simulador utiliza um potenciômetro para medir dados relacionados às emissões de CO2 (dióxido de carbono), exibindo-os em um LCD (display de cristal líquido). Esses dados são enviados para um serviço em nuvem por meio de uma conexão Wi-Fi, utilizando o protocolo MQTT. O serviço em nuvem processa e encaminha os dados para um cliente MQTT, facilitando auditoria realizada por terceiros.
 
